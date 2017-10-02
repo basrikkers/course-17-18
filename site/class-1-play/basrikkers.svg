@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000" height="500" viewBox="0 0 500 500"
+     >
+  <!--Update the title with your username-->
+  <title>@basrikkers</title>
+
+  <!--Add stuff here-->
+  <circle
+          cx="320"
+          cy="120"
+          r="50"
+          fill="blue"
+          opacity="0.8"
+        />
+    <rect
+          x="100"
+          y="400"
+          width="220"
+          height="50"
+          />
+       <text
+          x="400"
+          y="300"
+         font-family="Arial"
+             font-size="32px"
+          >Dit is leuk!</text>
+    
+    
+    <polygon
+             points="100,10 200,190 130,210"
+             />
+    <g
+       stroke="burlywood"
+       stroke-width="50" >
+    <path
+          d="M150 0 L75 200 L225 200 Z"
+          />
+        <line
+          x1="50"
+          y1="300"
+          x2="400"
+          y2="200"
+          stroke-width="20"
+          stroke="green"
+          />
+ 
+    </g>
+
+</svg>
